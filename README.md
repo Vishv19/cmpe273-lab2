@@ -12,7 +12,7 @@ POST http://localhost:8080/hello with following body data:
    “name”: “foo”
 }
 
-To GET resonse "GET http://localhost:8080/hello"
+For GET resonse "GET http://localhost:8080/hello/foo"
 
 Response:
 
